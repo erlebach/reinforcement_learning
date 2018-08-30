@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7A864A78-8C0A-1FBD-D30E-5EC3DC4F8004}</ProjectGuid>
+    <ProjectGuid>{28E17AD1-FA59-BEDB-E3F5-DB812D07516E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,16 +59,16 @@
      <Compile Include="Assets\BallState.cs" />
      <Compile Include="Assets\Brain.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>/Users/erlebach/Documents/src/2018/game_design_course/BallBalance_udemy_reinforcement/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>/Users/erlebach/reinforcement_learning/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/erlebach/Documents/src/2018/game_design_course/BallBalance_udemy_reinforcement/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/erlebach/reinforcement_learning/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/erlebach/Documents/src/2018/game_design_course/BallBalance_udemy_reinforcement/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/erlebach/reinforcement_learning/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/erlebach/Documents/src/2018/game_design_course/BallBalance_udemy_reinforcement/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/erlebach/reinforcement_learning/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
